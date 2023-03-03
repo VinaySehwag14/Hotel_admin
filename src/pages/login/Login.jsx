@@ -53,7 +53,7 @@ const Login = () => {
       <input
         style={{ padding: 10, marginBottom: 20 }}
         type="text"
-        placeholder="type freewolf"
+        placeholder="type malang"
         id="username"
         onChange={handleChange}
       />
